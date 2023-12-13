@@ -1,0 +1,1 @@
+Thư mục chứa các data hình ảnh của phân loại lưu lượng mạng
